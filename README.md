@@ -1,4 +1,4 @@
-# Glassdoor USA Data Jobs Scraping & Analysis Project
+# Glassdoor Job Board Scraping & Analysis
 
 ## 🎞️ About the Project
 The job market in data-related fields is rapidly evolving, with high demand for skilled professionals in various industries. This project aims to collect and analyze job listings from Glassdoor to understand the market trends, salary expectations, and skill requirements for Data Analysts, Data Scientists, and Data Engineers in Seattle, Austin, Los Angeles, New York, and San Francisco.
