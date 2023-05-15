@@ -10,5 +10,5 @@ This project aims to scrape job listings for Data Analyst, Data Scientist, and D
 * [Sellenium](https://developers.google.com/youtube/v3)
 
 ## Project detail available at
-https://leo-hs-lee.github.io/
+[Project Detail Page](https://leo-hs-lee.github.io/hr_analytics.html)
 
