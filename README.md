@@ -7,7 +7,7 @@ This project aims to scrape job listings for Data Analyst, Data Scientist, and D
 
 ### Tools Used
 * [Python 3.8](https://www.python.org/downloads/release/python-3814/)
-* [Sellenium](https://developers.google.com/youtube/v3)
+* [Sellenium](https://www.selenium.dev/)
 
 ## Project detail available at
 [Project Detail Page](https://leo-hs-lee.github.io/hr_analytics.html)
