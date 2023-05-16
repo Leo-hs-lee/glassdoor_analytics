@@ -1,6 +1,6 @@
 # Glassdoor Job Board Scraping & Analysis
 
-## 🎞️ About the Project
+## 💼 About the Project
 The job market in data-related fields is rapidly evolving, with high demand for skilled professionals in various industries. 
 
 This project aims to scrape job listings for Data Analyst, Data Scientist, and Data Engineer positions from Glassdoor in five major US cities: Seattle, Austin, Los Angeles, New York, and San Francisco. The collected data will be used for further analysis, visualization, and predicting trends in the job market.
